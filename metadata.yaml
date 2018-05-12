@@ -1,0 +1,26 @@
+_repo: Nine-O-Clock-Talks_45272
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45272-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kellogg, Frederic B.
+    deathdate: 1958
+    gutenberg_agent_id: '43187'
+    url: http://www.gutenberg.org/2009/agents/43187
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life'
+- !lcsh 'Episcopal Church -- Sermons'
+title: Nine O'Clock Talks
+url: http://www.gutenberg.org/ebooks/45272
